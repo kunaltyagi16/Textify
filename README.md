@@ -1,3 +1,10 @@
+## Snippets
+
+![e3](https://github.com/user-attachments/assets/b5b971d8-e3cc-4b3b-840f-c400771e5123)
+
+![e4](https://github.com/user-attachments/assets/f36aa7fd-c0ee-4268-8c30-8f9b0eb0b7ed)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
